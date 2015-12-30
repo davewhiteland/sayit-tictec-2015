@@ -1,0 +1,576 @@
+This is the transcript for a video which can be found on mySociety’s YouTube channel at 
+https://www.youtube.com/watch?v=PwV0duTMKNw.
+
+It accompanies the TICTeC 2015 keynote:  'Hey! It's time to check your tech' by Dr. Shelley Boulianne.
+
+Slides are at https://academic.macewan.ca/bouliannes/files/2010/06/Boulianne-Keynote-Presentation-Mar23-2015DISTRIBUTION.pdf
+
+0:05 And so I want to say, first of all, thank you very much to mySociety for
+0:08 inviting me here today; I’m very honoured to be.. to.
+0:12 be asked to provide the keynote speech,
+0:15 one of the keynote speeches; it’s very nerve-wracking, but thank you very
+0:20 much. I don't have
+0:21 a picture or a map of Canada, but
+0:25 to give you an idea of where I’m from in Canada, I'm from the northwestern part of
+0:29 Canada, so when you think about the stereotypical Canadian,
+0:32 living in an igloo, I will say that I'm actually from the part in Canada
+0:36 where we could live in igloos; it is that cold,
+0:38 but we just choose not to. And we have still
+0:42 a couple of feet of snow on the ground. So, thank you very much...
+0:45 So in this presentation, what I would like to cover is a couple
+0:49 of the theoretical points about how the Internet influences civic and political
+0:54 engagement.
+0:55 You'll see that I'm focusing  on three aspects to that theory:
+0:59 the information aspects; the connection aspects;
+1:02 as well at the new opportunities afforded
+1:05 by internet to provide citizens with a voice and to provide input
+1:09 into government. So, one of the things...
+1:12 type of research that I like to do is call a meta-analysis, and that’s basically reading
+1:17 all of the studies that I can get my hands on, and trying to provide
+1:21 a summary of what this literature is telling us. So the research that I’m presenting
+1:25 today
+1:26 is based on a study of ninety different studies
+1:30 that have tried to examine the effect of internet use
+1:33 on civic and political engagement. So, as a
+1:37 spoiler alert, I will tell you that the effects are positive; we,
+1:41 we absolutely know that, I know that there was some early talk in
+1:45 about 2000 about whether the Internet would have negative
+1:48 impact; I hope that I can appease any concerns about negative impact.
+1:52 But I also want to point into some of the, er, gaps in the existing research. I know
+1:58 ninety studies is a lot of studies to be done, but I think that the research could be
+2:02 improved, and so I'd like to give you some idea where I think the research
+2:05 should go to improve our understanding of how the internet affects
+2:09 civic and political engagement.
+2:13 So: in a democracy, there's a few different  views on how democracy should work.
+2:17 One of them is that citizens should provide input,
+2:20 mediated through civic groups. Another version of
+2:23 democracy will look at how how we elect representatives and those
+2:28 representatives are
+2:29 intended to speak on our behalf.
+2:32 And then the last version, our view of how democracy works,
+2:36 basically looked at this idea of citizens providing direct input into government.
+2:41 So things like referendum, or participating in online
+2:45 deliberations, this is sort of giving citizens a direct voice
+2:49 in governance. So the common aspect of all of these theories
+2:53 is that citizens need some venue for collecting information so that they can
+2:57 provide input to government;
+2:59 they need connections, the connections amongst citizens and between citizens
+3:04 and organisations - these connections are very important, as I’ll
+3:08 elaborate in a few slides - and then the last aspect of
+3:11 this, for the Internet in a democratic society, is to provide opportunities for
+3:16 input and engagement. So those are the three themes that I'd like to
+3:20 focus on in explaining how I see the Internet influencing civic and political
+3:24 life.
+3:25 All right, so we're all familiar
+3:30 with patterns of disengagement: a lot of the
+3:33 focus is on how the voter turnout is in decline -
+3:37 and this is statistics here from France, the United Kingdom and the United States, and we have
+3:41 similar patterns in Canada
+3:43 as well. There's a few theories about why
+3:46 voter turnout is in decline. Two of the dominant theories
+3:49 is around a lack of knowledge: that people lack the relevant
+3:53 political knowledge to participate in democratic practices such as voting,
+3:58 and then the other theory that has been put forth - a more contemporary version -
+4:02 is talking about our lack of connections to each other as citizens,
+4:06 and then the connection between citizens and organisations... and so these are sort of the
+4:10 dominant themes
+4:11of explaining disengagement. Now disengagement
+4:15 isn't the only story to be told; there's also a story to talk about
+4:19 in terms of patterns of *en*gagement, and so we see
+4:22 the internet coming in and filling in as another opportunity,
+4:26 other than voting, to participate in civic and political life.
+4:29 But we need to think about these trends when we’re talking about the
+4:33 internet’s
+4:34 effects, because it's going to frame how we see the internet’s effect and what we
+4:38 study about the internet, and certainly these patterns of disengagement
+4:41 have fueled concerns that the internet would lead to further
+4:45 demise in civic and political life.
+4:51 So the Internet is a key mechanism, er around
+4:54 gathering information, and so really the problem that the
+4:57 internet was, was expected to address
+5:01 is these problems of knowledge gaps. So
+5:04 this is one of the dominant explanations for disengagement,
+5:07 looking at how people lack just the basic knowledge about
+5:11 who their member parliament is. So the Internet is certainly helpful in
+5:15 addressing
+5:15 those, er, knowledge gaps. The idea is that citizens will have access to abundance of
+5:21 information and that this could inform their political and civic
+5:24 engagement. The other theory focuses
+5:28 on connections, so we see the Internet, a discussion of the internet
+5:31 in terms of how it can build social ties among citizens
+5:35 and between citizens and organisations and these ties are meant
+5:39 to engage citizens. And then, the last one is
+5:46 looking at the role of the Internet in terms of reducing the costs of
+5:49 being involved in civic and political life. Of course we know that
+5:53 being an active participant requires time and resources and of
+5:57 course knowledge as one of those resources, and we're looking to the
+6:01 internet and how it can shape
+6:02 the cost of participation, and hopefully reduce those costs of
+6:06 participation, so that a larger section of our population
+6:10 can participate in civic and political life. So there is a lot of research, and
+6:17 a lot of commentary out there, as
+6:19 has been alluded to, about how the internet could affect civic and political life,
+6:23 but the research that I'm trying to address is on a very specific question:
+6:28 it is on the question of whether the internet will have a causal
+6:31 and transformative effect on civic and political engagement.
+6:35 The research hypotheses that are pursued within this area of research
+6:39 are questions like: can the internet turn non-participants
+6:44 into participants, or, can greater use of the internet
+6:48 lead to greater participation in civic and political life?
+6:52 The more contemporary version of these research questions are looking at
+6:56 particular uses of the internet, such as
+6:59 social networking sites
+7:01 and how increased use of these particular applications
+7:04 can affect people’s civic and political engagement.
+7:07 but it is a very select set of research; it’s all
+7:11 claiming that there’s some causal role for the internet in terms of increasing
+7:16 civic and political engagement,
+7:17 that is going to cause people to be more engaged.
+7:20 So in terms of the information aspects, I think you're probably
+7:28 very familiar because there is a lot of applications out there that are meant to
+7:32 address the problem
+7:33 of knowledge and lack of information. So we know that the internet provides a
+7:37 wide variety... access to a wide variety of issues, and from the communications
+7:42 perspective it's really
+7:43 this idea that you don't need to be interested in what the traditional media
+7:47 are covering;
+7:48 the idea on the internet is, there’s gonna be information out there that interests you.
+7:52 So the ideal is that citizens will find an issue that interests them,
+7:56 and they can use the internet to become more informed about this issue.
+8:01 More informed also leads to more engagement;
+8:04 that is that pattern of research that we see outside the internet, and certainly
+8:10 it true for the internet: more informed means more engaged. There's also this
+8:15 idea
+8:16 with the internet of this incidental exposure, or
+8:19 accidental learning. So the idea here is, because we have
+8:22 information and that information is easy to exchange,
+8:26 that we can see a transfer of information from people who are highly
+8:29 interested and involved in politics, and we can see them
+8:33 pushing out that information to members of their social network who are not
+8:37 interested and engaged.
+8:38 So the idea here - and this is especially true for social networking sites - we expect to
+8:44 see that news circulates through these sites
+8:46 and will reach people who are not engaged,
+8:49 not informed, but they're going to become informed because of this process of
+8:53 information sharing.
+8:54 The other thing that is
+8:58 unique, and again social networking sites, is the idea that these,
+9:02 this information that’s being
+9:04 exchanged may have greater impact because it's coming from our family and friends.
+9:08 So we have this, not just an abundance research, but it’s research that has been
+9:12 filtered
+9:13 through people that we trust, people we know, through people who will probably follow up
+9:18 with us and say,
+9:19 ‘Did you read this? I sent it to you’, you know there's an accountability in there,
+9:23 and so there's an expectation that the information,
+9:26 information will have greater impacts on our knowledge and our engagement.
+9:29 Erm, of course
+9:33 the internet provides a lot of venues to monitor political life, to
+9:38 find out who your member of parliament is, to find out what they are doing
+9:42 um, in terms of decision-making and tracking that sort of
+9:45 aspect; we know that that sort of information is readily available now
+9:49 on the internet, but overall all of these theories are basically on the assumption that the
+9:54 internet will
+9:54 reduce the effort to become informed, and then
+9:57 this being informed is going to lead to more engagement
+10:01 in civic and political life. The other thing that is interesting about the internet is
+10:08 this idea of
+10:09 expanding our social network, so I'm a sociologist and of course,
+10:12 one of the things that I’m interested in is how the internet affects
+10:17 the number of people that we are  talking to or interacting with
+10:20 on a regular basis, and current estimates place the number of
+10:24 Facebook friends and number of followers on Twitter in that
+10:28 200-300 at the, um, as the
+10:31 typical network size, and this is something unique
+10:35 because prior to the internet was really hard to think of being able to
+10:39 communicate on a regular basis with two to three hundred of
+10:42 your family and friends; it also would be extremely difficult to do.
+10:46 So we know that the internet has impacts on
+10:49 our network size. Network size becomes important because we know that people
+10:53 with larger networks
+10:55 are more likely to be asked to be involved in civic and
+10:58 political life, so there's this opportunity to be
+11:02 mobilised, the larger your network is. We know that if you are asked to participate in
+11:07 politics, you are more likely to be..
+11:09 to actually agree to that recruitment message, and to be involved in civic and
+11:13 political life. So these networks
+11:15 really are a critical … way in which we the internet
+11:19 engaging people in civic and political life. We also have a variety of
+11:25 tools, and some you will be presenting
+11:27 possibly on these tools, but we have a variety of tools
+11:30 to basically co-ordinate group activities on the internet and so,
+11:35 I've highlighted Facebook groups, because that seems to be where the literature
+11:39 has done a lot of research on;
+11:40 the role of Facebook groups in terms of recruiting and mobilizing people and
+11:45 getting them talking about
+11:47 politics. And again the idea here, the fundamental assumption around
+11:53 these connections is that it's going to reduce the effort required to connect with
+11:57 other people,
+11:58 and to connect with organisations,
+12:01 and that this will lead to greater civic and political engagement.
+12:05  And the last aspect is looking at the opportunities presented by
+12:11 the internet. So we know that...
+12:14 well, we expect that the internet is going to make
+12:17 um, civic and political participation
+12:20 in online forms much easier to do: it's readily available on your fingertips,
+12:24 you can sign a petition
+12:26 if you’re already set up with change.dot organisation,
+12:29 the change.org, all you have to do is click, you know, sign this petition, you
+12:33 don't even have to re register your name or anything:
+12:35 it’s literally that easy. So we see the internet impacting civic and political
+12:39 engagement
+12:41 through this venue, this these easy-click...
+12:45 click, easy clicks towards participation. One of the things that I like to look at
+12:50 is the way that the internet will transform how the
+12:53 government consults with its citizens, so looking at how
+12:57 online deliberation can be had held,
+13:01 and how they.. it can have impact on decision-making.
+13:04 All right. I know I’m supposed to stick to the microphone, but I do need a drink of water.
+13:21 So the research that I’m going to be presenting here today
+13:24 is called a meta-analysis, and what this is, is basically taking all the
+13:28 quantitative studies,
+13:30 so all of the evidence-based studies that have been done
+13:33 in this area, and looking at them and trying to find patterns
+13:37 in the findings. So it's basically a summary of a
+13:40 bunch of quantitative studies, and trying to get
+13:43 at the impacts of the internet on civic and political
+13:47 life. The value of a meta-analysis
+13:51 is that it's going to overcome any limitations of any single study, so you’ll
+13:54 see studies published and there'll be discussions about, you know, small sample size
+14:00 weak measurements, minimal measurements - there's all these er, problems with any
+14:05 particular studies: there’s trade-offs, there’s funding issues that all lead to these
+14:08 limitations in any individual study.
+14:11 So, the value of a meta-analysis is that it can look across the different studies
+14:15 and sort of
+14:16 pool resources, and say, here's what we know about the impact of the internet
+14:21 on civic and political life. We can look at all of the different ways that it's been
+14:25 measured;
+14:26 all of the different people who have been surveyed, and see what the impacts
+14:31 of the internet are on civic and political life. And so my argument, or at least the argument that I make
+14:36 when I’m trying to publish this type of resource, is based.. these
+14:40 findings.. is basically going to get us closer to the truth - and of course I
+14:43 have to put the truth in
+14:45 brackets, because I don't want to claim that I know what the truth
+14:48 is, but I certainly think this will get us closer to the truth,
+14:51 this idea that if we can combine all of the studies and look at the patterns and the facts,
+14:56 that we are going to be closer to um, some true
+14:59 idea about the impact of the internet on civic
+15:03 and political life. So the other thing I will say about this, is my meta-analysis
+15:08 can only be as good as the studies
+15:10 that I'm employing, so yes I have ninety
+15:13 studies that are informing my analysis here, but
+15:16 my analysis can only be as good as the studies that are feeding into it.
+15:20 And so I will be talking about the research methodologies
+15:23 used in this field of research. Alright,
+15:29 so I identif - I’ve identified ninety studies in this area of
+15:33 research; it spans twenty years of research on the internet’s
+15:37 effect on civic and political life. Erm,
+15:40 I tried to be very expansive; I wanted to include
+15:44 all the research across the globe, but I will acknowledge that the limitations of my
+15:49 research is:
+15:49 most of the research - I suspect -
+15:53 is based on well-established democracies, and as such, my meta-analysis
+15:57 tends to focus more on well established democracies,
+16:01 and summarising the effects there.
+16:05 So within each study, we have multiple estimates
+16:09 of the effects of the internet on civic and political Iife
+16:12 so one study will not just claim,
+16:15 here's one finding about the internet and its impact; it’ll try to get at
+16:20 multiple findings about the internet’s effects.
+16:23 So we have ninety studies, but we have 540 survey-based
+16:27 estimates of the effects of civic and political Iife.
+16:31 So, sometimes these multiple effects are explained by multiple measures
+16:35 of internet use, so for example the contemporary
+16:39 literature will look at, do you use online news; it’ll
+16:42 also have a measure about, do you use social networking sites;
+16:46 it’ll have multiple measures of internet use,  and so it will have multiple measures
+16:51 of the impacts of this, these different types of use on
+16:54 civic and political engagement. The other thing, the
+16:58 reason that there’s multiple estimate is sometimes they look at different
+17:01 types of civic and political activities, so they’ll look at things like voting
+17:06 and they’ll  look at protests, and they’ll look at
+17:10 participation in boycotts and buycotts, and so you'll see multiple
+17:14 estimates, saying here's the effects for this type of behaviour,
+17:17 and here's these other effects for other types of political behaviour.
+17:22 So we have 540
+17:25 estimates of the causal effect of internet use
+17:29 on civic and political life. So if you're looking for
+17:33 an orientation to this field of research, er, I thought,
+17:37 rather than give you a list of references that is 90
+17:40 items long, what I would do is give you a word cloud that tries to give
+17:44 you an assessment of where this literature.. when it's been published and
+17:48 who's publishing this literature.
+17:50 So one of the big names in this area of research, you can see in blue here
+17:54 is Bruce Bimber, and to give you an idea of how he's contributed to this
+17:58 research, er, Bimber and Copeland, who’s in the green,
+18:02 they published a study in 2013 about the internet’s
+18:06 effect on civic and political life; they actually contributed
+18:10 30 estimates of the effects of the internet
+18:13 on civic and political life. So the 30 estimates come from a single measure of
+18:18 internet use for accessing campaign information,
+18:22 but what they have done is looked at six different
+18:25 civic and political activities:so they look at, at donating,
+18:29 they look at voting, they look at six different political behaviors
+18:33 and then they looked across five different elections, so they have multiple
+18:38 estimates here coming from multiple sources, and so what I'm trying to do
+18:41 here is trying to get
+18:42 this piece of information in with the larger
+18:46 body of studies to try to find what the patterns are in terms of the effects of civic..
+18:51 of the Internet on civic and political engagement. So if you are orienting yourself
+18:55 to this field, I strongly
+18:56 recommend research by Bruce Bimber; we see Valenzuela
+19:00 has done a lot of research on social media and its
+19:03 impact on civic and political engagement, so I will direct you there,
+19:07 and then Shaw, Devin Shaw should be in there as well,
+19:10 he's also done a lot of research focusing on online news
+19:14 and how that affects civic and political life. The research that I'm talking about is all
+19:22 recently published research, so about half of my studies were published
+19:26 in 2013 - that doesn't mean the data was collected in 2013,
+19:31 there's a lag period - but the idea here is, it’s all very
+19:35 recent research, er, that has just been newly
+19:38 published in 2013. So, not surprising because I did have a spoiler alert,
+19:46 but we see that the abundance of findings are basically saying
+19:50 that the internet is going to have a positive effect on civic and political
+19:53 life.
+19:54 So, the actual estimate is somewhere around
+19:58 eighty-three percent of the coefficients are positive,
+20:01 and then we have some that are negative. The ones that come back negative
+20:05 are usually measurements that look at internet use in terms of frequency of
+20:09 use,
+20:10 so how long do you spend on the internet, so looking at
+20:13 hours, and then the other set of research that produces a negative
+20:17 coefficient
+20:18 is whether or not you use the internet for playing games,
+20:21 and that seems to have a negative effect on your engagement in
+20:25 civic and political life - even after controlling for age
+20:28 because we know, erm, age and game-playing is probably
+20:31 closely tied. So we can appease any concerns that the internet is having a
+20:36 negative effect; we certainly see
+20:38 over and over, across these 540 estimates that the effects,
+20:43 the effects are indeed positive. So I know social networking sites have received a
+20:49 lot of attention recently, so what I wanted to do is sort of
+20:52 look at whether social networking sites are really something
+20:56 different that is happening online, or is it just more of the same?
+21:00 And so my finding is actually that it's just more of the same; it’s the internet that is
+21:04 having an
+21:05 impact, and we see a lot of attention to social networking sites,
+21:08 but the other types of internet use, so going
+21:11 online to find online information, or participating in online opportunities
+21:17 er, to engage in civic and political life, all these are having comprab-
+21:21 comparable effects. So they're not more or less likely
+21:24 to provide, er, positive effects here. So for this audience, one of the things that I
+21:31 thought might be interesting is to look at
+21:33 how different applications affect engagement in civic and political life.
+21:38 So I wanted to look a little bit deeper in the literature
+21:41 to see if we can find whether Twitter has a different effect
+21:46 than, say, Facebook, okay, or maybe whether YouTube
+21:49 is different from Twitter or Facebook. And so getting into the nuances of the
+21:54 particular applications,
+21:56 and trying to understand where the findings are different.
+22:00 Likewise, I’m interested in questions of whether people who access their information
+22:04 through blogs, is going to be different than people who look
+22:08 at traditional news websites. Now
+22:11 getting down into these levels of details is very difficult.
+22:14 One of the things that academics like to do is, they like to ask about five to
+22:18 ten different questions about internet use,
+22:20 but then they take all those questions, summarise them into a single variable or
+22:25 single measurement,
+22:26 and they don't look at the details or how there could be differences
+22:30 depending on what types of uses. So it's very hard to do that type of
+22:34 granular research to look at the effects of particular
+22:38 applications. That's it: I have ninety studies and there was about 10 to 15
+22:43 studies
+22:44 that looked at specific applications, and so here's my
+22:47 findings here, around that particular question. One of the things that we're
+22:52 seeing is Facebook is basically coming out
+22:55 with an..er er.. an abundance
+22:58 of positive effects, er, and and that is in contrast to Twitter which seems to have
+23:04 a more split,
+23:05 sometimes the effects are positive
+23:07 sometimes the effects are negative, erm and blogs and
+23:11 email and news websites are all, the balance of the effects are
+23:14 positive effects. Okay? So this leads to a few questions
+23:20 about the nature of Twitter and also the nature of the research that has been
+23:23 done in this field.
+23:25 This finding was really surprising to me.
+23:28 I shared my slides ahead of time what Tom and Gemma, and I know that this is
+23:31 one of the slides that was particularly interesting
+23:34 and so the question is, how do I explain that Twitter
+23:38 as being something distinctive here? And so I would say a couple of things: one
+23:42 is that we need to look at the weaknesses in our research methodology
+23:46 because I think part of me not being able to explain that finding is because
+23:50 of the type of
+23:51 research that has been done. A lot of the research is based on survey data
+23:56 where we asked people to recall their Twitter use, you know, did you use it
+24:00 to recirculate news stories; did you do it for all these different types of
+24:04 activities, rather than looking at that details of
+24:08 how people actually used Twitter. So we can’t really
+24:11 easily answer this question about why Twitter has these effects,
+24:14 because we don't have that..er.. that detailed analysis of how people..
+24:20 what people are actually doing on Twitter, as opposed to what they report
+24:23 they’re actually doing
+24:24 on Twitter. So we certainly have some methodological issues that would, er
+24:28 hamper the explanation of that finding. Now, that said, I do have some theories about
+24:35 why Twitter
+24:35 may have these types of effects: could be a limitation of Twitter, that
+24:40 you know, character size, could be the nature of
+24:43 the content in Twitter that explains these effects; it could be any number of things.
+24:47 It could be
+24:48 something as simply as, the research studying Twitter
+24:51 is… not as robust as the research that is studying
+24:56 Facebook. So I certainly see a lot more studies focusing on Facebook and fewer
+25:01 studies looking
+25:01 specifically at Twitter. Erm, and it could be something about the research
+25:05 methodologies that are influencing the findings.
+25:11 So that said, I think we can provide some conclusions from these ninety studies with
+25:15 540 effects, er, the relationship of
+25:19 the internet on civic and political engagement, and this findings
+25:24 over 20 years of research is basically, we can say that it has absolutely a positive
+25:28 effect on civic and political
+25:30 life. So I argue that it has a positive effect..
+25:33 effect, because the internet provides an easy venue
+25:36 for gathering information about civic and political life, information on
+25:40 political issues that
+25:42 will pique your interest and cause you to be more engaged in civic and political
+25:45 life.
+25:46 I argue that the Internet has this effect because it's building connections
+25:50 amongst citizens, and between citizens and organisations,
+25:54 and that these connections are basically facilitating
+25:57 political talk which leads to greater engagement and civic and political life,
+26:01 and of course the internet provides some new venues
+26:04 for engagement in civic and political life, so
+26:08 this will feed into..erm.. these online forums of engagement are leading into
+26:14 offline forms of engagement; I think I forgot to clarify here
+26:17 that the way that these studies have looked at is on, the online existence and
+26:22 what you do online and how that affects offline political behaviour.
+26:26 These are the ninety studies, have all looked at online uses and how
+26:31 it affects offline behavior. So that said,
+26:36 we do know that the effects are positive but we certainly have some challenges
+26:39 in our research that we have conducted here. Some of the
+26:43 problems with this research is, they’re are all based on single point in time
+26:46 surveys, asking participants to recall their
+26:50 online activities as well as their past levels of
+26:53 engagement in specific civic and political activities.
+26:57 So we have this problem of recall. Can people
+27:00 actually accurately report what they've done online?
+27:03 Can we ask a question like how many hours do you spend on Twitter
+27:07 reading news stories and actually get an accurate picture of what people are
+27:11 doing and how much time they are spending online?
+27:14 I would argue that we have some weaknesses in here we actually expect a
+27:18 lot of our survey respondents
+27:19 in terms of recalling their behaviour, and we need to look more critically
+27:23 at that, and whether or not we can reasonably expect them to recall this type of
+27:27 behaviour. Likewise, when we’re asking about civic and political
+27:31 activity, the tendency is to ask, you know, did you in the past 12 months
+27:36 sign a petition? And that is a long time span to try to recall your political behavior
+27:41 and so we have to question, are we getting good estimates of whether or not they’ve actually
+27:46 signed a petition? The other challenge in this
+27:50 area of research is one  of temporal order, so this is the issue of,
+27:54 do we know that it's internet use that is leading to engagement in civic and
+27:58 political life,
+27:59 or, are it’s the people who are already engaged just using it as a tool?
+28:04 Now this may seem like a very academic, pedantic discussion
+28:08 but it has a certain implications on our democracy.
+28:11 One of the questions I, I'm trying to explore as a researcher
+28:15 is whether or not the internet can address participation inequalities.
+28:20 We know that there are certain segments of the population who are particularly
+28:23 disengaged, who are not involved in civic and political life,
+28:27 and if I want to understand whether or not internet can help them,
+28:31 I need to be able to establish that their internet use happened first,
+28:35 and then they became more engaged. So we need to look at this question
+28:38 of temporal order and establish that in order to make the argument that the
+28:42  internet is having a transformative effect. The last
+28:46 issue with these types of studies, and again it's ninety studies that are...
+28:50 eighty of the ninety studies using an identical methodology - using survey-based research
+28:55 and just a single survey,  but one of the problems we have is, is
+28:59 attribution. How do we know it was the internet
+29:02 that led them to be more engaged, and not something else
+29:06 Okay? How do we know that it’s the internet that is causing
+29:09 their levels of political and civic engagement and not something else. So academics of course like
+29:14 to control for
+29:15 a variety of things and say that they ruled out these, ah, other explanations,
+29:19 but we really can’t get at,
+29:20 at attribution unless we can, you know, control who's getting access and looking
+29:25 at how the effects
+29:26 differ for those who have access to the internet versus don't -
+29:30 or that use a particular application or don't - if we have those sorts of
+29:34 comparisons, we can really establish
+29:36 that it is the technology that is having the impact. So in terms of improving research
+29:42 I have a few, er, relatively simple suggestions on how we can
+29:47 er, basically produce better research to understand the internet’s
+29:52 effect. One of them is to consider supplementing survey data with other
+29:55 forms of data,
+29:57 so whether we can look at the content of tweets, or the content of
+30:00 Facebook messages, and to see what people are actually being exposed to and what
+30:05 sort of information they are circulating through their social networks.
+30:08 We definitely need that supplementary information:
+30:11 that would help us understand why Twitter my may have different effects
+30:15 than Facebook - maybe it's because of the content on Twitter...
+30:19 but again we need to have this supplementary information on how
+30:23 these social media are being used in order to, to
+30:27 answer these questions. Er, the other thing we need to do is, we need to look at
+30:32 participants over the course of time, and this is basically trying to establish
+30:36 this idea that it’s the internet that is actually
+30:39 influencing civic and political engagement. This will help us understand that a
+30:43 little bit better, if
+30:44 we can track changes in behaviour, offline behaviour over time
+30:48 and changes in internet over, internet use over time,
+30:52 these will help us better understand things. And the methodology that I like to use
+30:56 erm, to test my own research is looking at
+30:59 can we assess what people's level of political knowledge or
+31:03 connectedness is, their levels of engagement before we introduce a
+31:06 technology,
+31:07 and can we get a good picture of what that looks like,
+31:11 then introduce the technology, and this technology that I’ve been studying is
+31:14 online news websites, then look at them again and say,
+31:18 look at how political knowledge has changed after usage of
+31:22 this website, how has connectedness changed after the use of the website, and
+31:26 can we look at long-term measurement
+31:28 in terms of how levels of engagement have changed after use of this website.
+31:33 In terms of attributions, we don't have any
+31:36 very easy answers or methodological fixes for how to, er
+31:40 improve the attribution to the internet. One of the ways that I propose
+31:44 we get a better understanding, is to do more comparative work.
+31:48 And the comparative work that I think would be really helpful for us to
+31:51 understand
+31:52 is look at the effects of the internet in a well established democracy
+31:56 where the internet is widely used, and compare that to another context
+32:01 where maybe the internet is not as widely used, and do that
+32:05 cross-national comparative work. So of those ninety studies,
+32:09 there are literally a handful, I would say about five studies
+32:12 that look at cross-national differences in internet use in civic and political
+32:17 engagement, so we definitely have some work to do
+32:20 in this area. The other suggestion that I have for trying to get
+32:24 attribution is looking at it for, for different
+32:27 sub-segments of the population. So my research has looked specifically at how
+32:32 the internet has differential effects on civic and political engagement
+32:36 for youth, as opposed to non-youth. So I think that, that was probably one of our
+32:42 best options to try to get at attribution is try to do some comparisons here.
+32:46 So in summary, in case you didn't get my point, or you just had a little nap:
+32:52 I’d like to summarise what I’ve been trying to say.
+32:55 So first of all I want to just repeat my core finding, which is
+32:58 the internet will have a positive impact on civic and political life:
+33:02 we have about eighty-three percent coefficients that says that there's a
+33:06 positive relationship between
+33:08 the internet - internet use in its variety of forms - and
+33:11 engagement in civic and political life. My explanation of that finding
+33:16 focuses on information, connections and opportunities,
+33:19 so I think the internet is critical in addressing knowledge gaps
+33:23 and providing information to people that they wouldn't have, rather,
+33:27 easy access to otherwise. And so this is part of the reason that they are more
+33:31 engaged, because they have this information,
+33:33 it's contributing to knowledge, and this knowledge is leading to
+33:36 engagement in civic and political life. The other way that the internet is different is building
+33:42 these connections, so connections among citizens so that they can talk online
+33:46 about problems in our society and come up with solutions.
+33:50 The can also, it can also provide easy access to organisations,
+33:54 so you can find organisations that are interested in the political issues that
+33:58 you are interested in,
+33:59 you can form these connections, and then you can get information
+34:03 about opportunities for engagement on these particular activities.
+34:07 And then the last way that the internet is transforming civic and political
+34:11 life is basically offering these new opportunities
+34:15 for engagement, so things as easy as signing online petitions,
+34:19 but also to participate in online deliberations and
+34:22 other forms that the internet can host. And...
+34:29 I believe that’s it - yes.

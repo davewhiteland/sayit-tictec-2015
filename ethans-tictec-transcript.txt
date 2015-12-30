@@ -1,0 +1,653 @@
+
+This is a transcript to the video of the TICTeC2015 Keynote: 'It starts with a click' by Ethan Zuckerman. The accompanying video may be seen at https://www.youtube.com/watch?v=F8OdxnWUBaQ
+
+ — — — — — — 
+
+0:06  Ethan: Everybody: thank you for coming out, I'm gonna start this talk with three
+0:10 apologies. Number one is the standard one for this slot:
+0:13 I am between you and drinks. My job is to give you something to
+0:17 argue about over drinks. You can argue with me, you can argue with each other
+0:21 but I understand my role in all this
+0:24 and I promise, I need a drink as much as you. Apology
+0:27 number two: I am an American
+0:31 and I'm about to give a horrifically Americentric
+0:34 talk, and normally, I am I'm too good a guest
+0:38 to do this, but the truth is I wanna talk about stuff I'm
+0:41 actually just starting to work on, and I haven't had time to sort of go through and
+0:46 be polite and come up with all the
+0:46 UK examples for it... nor do I actually know if the theory that I want to put forward actually
+0:51 works the UK - so I am completely
+0:54 acknowledging that I'm going to be the American bastard who sort of
+0:57 gives you the view from my country, not the global view,
+1:01 and hope that by apologising for it ahead of time
+1:05 that that somehow makes it better. I'm not sure that it does, but I’m going to say it
+1:08 in the hopes that it does. And then the third thing is an apology specifically to Rebecca,
+1:11 which is that this has absolutely nothing to do
+1:14 with the description within the programme
+1:17 because I don't think I gave her a description, and she sort of trusted that
+1:21 I would talk about what I normally talk about, but this talk actually all about
+1:24 mistrust...
+1:25 and not just mistrusting me - which is a very very good idea -
+1:29 but institutional mistrust. This is a graph
+1:32 that I’ve spent a lot of time thinking about recently. This is a graph from
+1:36 [pure?] research and it's a synthesis of a number of studies in the US
+1:41 looking at people who say
+1:44 they have some or a lot of faith
+1:46 in government. And you’ll notice that this graph has a very distinctive pattern to it.
+1:52 In the late nineteen fifties when we were having our
+1:55 post-war boom and inventing rock-n-roll and life was good in suburbia,
+2:00 we had very very high trust in government in the US.
+2:04 We impeached a president; you’ll note that that tends to erode
+2:07 that trust a little bit - Nixon over there - but things just keep getting worse...
+2:12 other than an ill-advised war, which has a nice way of bumping up
+2:15 trust in government, we have been on the steady decline. And so we have gone from a strong
+2:21 majority of people trusting in government to a very very low level.
+2:24 at this point in time. And what's interesting
+2:27 is that it's not just government. If you ask us who we
+2:31 mistrust more than anything else in the US, we will tell you ‘congress’:
+2:34 they're probably the least trusted entity we can deal with except possibly
+2:38 talk show hosts - but if you look sort of across the board
+2:41 the US has had falling trust in
+2:45 almost every form of institution over that period from about 1958
+2:50 to the present. What's really interesting - and to me sort of shocking - is that the only institutions
+2:55 that are
+2:55 rising in trust in the United States are the police and the military
+3:00 and this scares me quite a bit, because this actually reminds me quite a bit of
+3:03 Egypt, where you suddenly end up with a system where people are basically saying we
+3:06 don't trust
+3:07 any of these institutions except for the guys with guns, I'm sure they have
+3:11 our best interests at heart.
+3:14 I've been trying to figure out whether this
+3:17 globalises at all. and the research on this is
+3:20 is complicated, it's tricky. Edelman does this survey every year; they've been
+3:24 doing the trust
+3:25 barometer since 2007 but they’re a global PR firm, and they're mostly trying to figure out
+3:30 whether you
+3:30 trust big brands. I do like it in the sense that they think that the UK is
+3:35 even less trusting than the US, and they do think we’re on a
+3:38 general trust decline. Probably the more realistic
+3:42 work on this is the World Values survey, and the World Value survey breaks that out in an interesting
+3:47 way. Er, Germany, Northern Europe, Scandinavia:
+3:52 increasing trust - increasing trust in government over the period of the last 25 years or so
+3:57 most of the rest of the OECD most of the
+4:00 developing world: lowering trust in governments and other institutions.
+4:04 So I'm, I'm in no way trying to make the case that
+4:08 everybody is growing mistrustful, but I am trying to make the case that
+4:11 mistrust is a big and real problem
+4:15 that we should be thinking about and there’s a lot of possible reasons
+4:19 for this mistrust. I mean me personally, I
+4:22 favour an explanation that blames Reagan and Thatcher; I think having
+4:26 a nice long run of people telling you that government can do nothing,
+4:29 and then trying to demonstrate that government can do nothing, goes a long
+4:32 way towards eroding trust.
+4:34 I think more access to media has a lot to do with erosion of trust
+4:39 This is really where Moises Nayim goes on this. Nayim
+4:42 basically says look we've had these revolutions:
+4:45 access to information, mobility, much greater opportunity for most people, much broader
+4:51 life choice
+4:52 and it makes it possible to basically look around the world and say,
+4:55 “I could live
+4:57 a very different way, things could be very very different from me”. That has a way - he thinks -
+5:02 of eroding the power of very large institutions.
+5:05 Erm.. Ivan Krastev, fun guy, Bulgarian
+5:09 - er, probably the least trusting people in the world - goes even
+5:12 further and and says, “Look we we can
+5:15 demonstrate that you would be extremely ill-advised
+5:19 to have trust in government because the government actually has
+5:23 much much less power than we do over much larger structural forces,
+5:27 particularly market forces.
+5:29 In a wonderful little book Ivan basically says, “Look all you people, when you're marching in the
+5:34 streets, give it
+5:35 up, forget about it. You’re asking for the end of austerity,
+5:38 your governments can’t end austerity the the market is going to be choked so
+5:42 badly,
+5:43 who should march against? You can't.You’d be marching
+5:46 against an abstract force; there's absolutely no hope; go away”.
+5:50 And so let me just say, I actually sit on a board of directors with with both
+5:54 these guys, and I can tell you, it’s a real barrel of laughs, we sorta, you know, look at
+5:57 this, civilisation is falling apart… So
+6:01 I... I am interested in trust
+6:04 as a way of explaining a lot of what we talk about as sort of a crisis in civics.
+6:09 This is very much sort of in vogue in the US, talking about this idea that
+6:14 civics is falling apart; very low public participation -
+6:18 often pulled out through things like voter turnout. And even I look at this and say,
+6:23 “Shame on us, we’re doing a terrible job of being citizens”... or you can look at
+6:27 mistrust and essentially say, “Why would I really mobilize to vote
+6:31 for membership in an institution that has a 9 percent approval rating? Do I
+6:36 really care all that much if I think that this institution
+6:39 is not particularly powerful and not particularly effective?”
+6:42 And so a lot of what I’ve been sort of thinking about these days
+6:46 is, can we take other forms of civic activity seriously?
+6:49 Because when you look, and you essentially say youth’s disaffected, they don't want
+6:53 to be involved in civics,
+6:54 it’s clearly missing the point of
+6:56 many many young people who are involved in volunteering,
+6:59 who are involved on a local levels, who are involved in protest movements.
+7:02 What you're really seeing, I think,
+7:05 is people essentially saying, “Look, I am so mistrustful
+7:09 of these institutions that you want me to participate in, that I am simply not going to do that.
+7:13  But if you can give me another
+7:16 way to participate that feels meaningful, where I feel like I could actually be effective,
+7:19 I'm absolutely willing to step up and kind of make the change”.
+7:22 So this is
+7:26 the somewhat crazy case I wanna try to make to you:
+7:29 and sceptical Ghanaian child is here to help me with this: I wanna try to make the case
+7:34 that mistrust is an amazing
+7:37 and almost infinitely renewable civic
+7:40 asset; that we can simply look at mistrust
+7:44 as, not this barrier we have to overcome; but actually look at mistrust as this
+7:49 incredibly powerful force that if we can figure out how to harness
+7:53 actually becomes a really interesting path towards civic change.
+7:56 We have the possibility of seeing the extent to which there really is
+8:01 civic reevaluation taking place, and which you could build
+8:04 a very very different vision of civics. So
+8:08 this is the crazy proposition that I want you to run with me
+8:11 on, and by the end of this we can have a drink, and you can tell me that I'm
+8:14 completely full
+8:15 of it, or that you’ve come around and this is an interesting way of thinking about it. So here's my case:
+8:21 If mistrust is a massive force
+8:25 that is sort of changing people's political opinion; if
+8:28 it's not just this generation, but is inter-generational;
+8:31 if it’s affecting not just trust in government, but trust in a
+8:35 large range of institutions, there’s sort of three
+8:38 possible responses. These three possible
+8:42 possible responses that we might want to consider: one is that we might want to look at the ways
+8:46 that people work within existing systems and say, “How can I
+8:50 be most effective, given that I don’t trust these institutions very much?”
+8:53 I knew Powerpoint was going to screw up my slides.
+8:56 Here is how Powerpoint our this is supposed to be a very creative question
+9:01 This is supposed to be a very pretty equation; it is a rewrite of an equation from
+9:04 1958 by Anthony Downs on the calculus of voting
+9:08 and the idea behind this is, Downs is trying to figure out:
+9:11 why would anyone ever bother to vote?
+9:15 and he says, “Well, it’s perfectly rational” - because economists
+9:18 are perfectly rational, “You look, you see:
+9:22 What's the probability that my vote is going to make a change?
+9:25 You look at the size of the benefit that that change would have for you,
+9:29 and then you essentially say, is that worth
+9:33 that it’s going to take me to vote?”. If you do that and it doesn't make any sense at all.
+9:37 You do that and you basically say, “It is so rare
+9:40 that my vote in an election is actually going to swing the election”
+9:44 that no-one votes for that reason. We must be voting for some other
+9:48 reason. And so a bunch of theorists, including Ordeshook come in,
+9:52 1968 and they add this “D”  to the equation, they basically say,
+9:56 “No no no no, it's not just the probability of benefit:
+9:59 it’s the probability of benefit, plus this notion
+10:02 of civic duty. If we just take seriously
+10:06 this notion that we all have a duty to civic participation, that helps us explain why
+10:10 people participate in systems
+10:12 even if their vote is not going to be
+10:14 the decisive vote. And so Anthea Watson-Strong, very very smart woman over at
+10:17 Google, trying to figure out how to make Civics better,
+10:21 comes back and says, “Great. I'm gonna think of Civics in this way:
+10:24 as long as the probability of having a benefit
+10:28 plus the sense of duty for civic participation I have
+10:32 is greater than the cost it takes me to take a civic
+10:35 act, I will take that act.”
+10:38 And some cool ideas fall out of this, if you wanna get
+10:42 people more involved with Civics, there's three things you can
+10:45 do. You can make Civics less costly. You can try to make it
+10:49 easier for people to participate. You can try to find a way
+10:53 to make people feel like they're going to be efficacious
+10:56 within the system - we’re actually going to have the benefit that we’re looking for -
+11:01 or we can basically say, “Look, I don't know if
+11:04 you’re going to have the benefit but
+you’re going to feel really good about this, it’s your duty to participate
+11:07 in the system.” And when I look around
+11:10 at the work that people are doing in the field, a lot of it plays with these three different
+11:15 axes. A lot of terrific work out there
+11:18 is being done around this concept of trying to figure out how you lower the cost of action. Now
+11:23 I, I, I am speaking in giant theoretician
+11:26 generalities here; everybody who sees themselves on a slide, please don’t get upset that you’re being put
+11:31 solely into one box, but Catherine, like.. the reason why I’m talking about this, right is? (laughter)
+11:35 You know, one of the things that Code For America does very, very well
+11:39 is thinks about this question of how government makes services more efficient;
+11:42 how they’re doing better responsiveness; how to make it significantly easier for someone to have a
+11:47 positive interaction
+11:48 with government... I view that as a lowered cost
+11:51 theory. Kate:  the work you're doing over at Google -
+11:55 very much around this question of, can Google make it
+11:58 easier for you to go and vote, for you to participate in an election -
+12:02 very clearly sort of a lowered cost strategy. So I think a lot of this is simply looking at this and saying,
+12:07 “Can we take this system, make it more efficient?” That’s a good way
+12:11 forward. There's lots of people
+12:14 fooling around on the ‘duty’ side of it… this is where we get truly Americentric..
+12:17 Lots and lots of duty strategies basically say,
+12:21 can we reinforce almost the sort of ritualised
+12:25 behaviours? Can I show off that I voted, or
+12:28 can I get people so passionate about their local community
+12:33 their interest group, that in one fashion or another
+12:36 this is driving us to civic participation because of
+12:39 loyalty to that group in one fashion or another. So here's the problem with these two:
+12:44 if we don't trust the institutions in the first place
+12:48 lowering the cost of interacting with them may not actually be all that helpful.
+12:52 If we're essentially saying, I don't believe this institution is particularly
+12:56 helpful; I don’t believe that it has legitimacy; I don’t believe that it’s particularly
+12:59 effective, lowering that cost of participation
+13:02 is not necessarily going to be the key thing that gets
+13:06 us over the hump. We might have more in character[?] with it, we might have more
+13:08 exposure with it; perhaps if those encounters go significantly better
+13:11 we're going to start winning back some of that trust, but that strikes me as a very very
+13:15 tall hill to walk up. This is not a trust equation that has changed in the
+13:20 last 3-4 years. This looks to be a 40 or 50
+13:23 year change; simply reducing the cost
+13:26 to me seems like a very hard way to go. And to me, duty,
+13:30 which I see a lot of my friends - my dear friend Eric Liu
+13:33 is all about patriotism, is all about increased civic
+13:37 engagement..I, I just don’t buy it. I think so much of
+13:42 what's going on is people looking at institutions and saying they’re
+13:45 not as effective, they’re not as powerful, they're not as wonderful as I want them
+13:49 to be. I think trying to increase duty, in many cases, puts us in this
+13:53 really terrible place where we’re trying to make people feel very bad
+13:57 about their behavior. We’re essentially saying, “You're not a good person for
+14:01 being insufficiently engaged; if you would only pull yourself up by your bootstraps
+14:04 and be a
+14:05 proper civic actor, we'd all be much better off,
+14:08 and I think instead we’re trying to fight against a very large
+14:12 trend. So here's where I get excited. I’m excited around
+14:15 this question of, can we help people figure out how to be
+14:19 effective within these systems. And I'm trying very very hard to follow
+14:25 Tom’s gospel of trying to figure out how to actually measure
+14:29 the efficacy of the activities that we’re, that we’re taking part,
+14:33 and the trick about all of this is trying to measure
+14:37 efficacy forces you have a theory of change.
+14:40  You can't simply say, we got ten thousand people out onto the streets
+14:46 therefore we were effective. You can feel really good about getting ten
+14:49 thousand people onto the streets, but unless you have some
+14:53 theory on what those people in the streets are going to do,
+14:56 and you can measure whether
+14:57 that actually happens, you can measure whether mobilisation gets you towards that,
+15:01 it's very very hard
+15:02 to figure out whether you’re going in the right way. So a lot of
+15:08 what I’ve been thinking about the last couple of years are, what are these different paths
+15:11 towards change? And we know some of them very very well:
+15:14 we know that representative democracy - terrifically
+15:17 effective path towards change, except that it’s one which
+15:21 we now seem to be mistrusting a great deal. If we essentially say the way they we’re going
+15:26 to have change
+15:27 is electing a new leader or electing a new parliament or electing a new congress
+15:31 but we don't have much faith in that institution, this is a hard way to force
+15:36 people towards change. And the other .. problem with this it's not necessarily
+15:41 a particularly participatory method.
+15:44 your individual participation doesn't necessarily feel like it
+15:48 moves the needle very far .. you know, it moves the needle further if you're involved with a
+15:52 campaign, or you’re leading a campaign; it moves the needle a lot further if you’re a
+15:55 candidate - but for many, many people, this sense of how much can you personally contribute to it?
+16:00 Fairly small. And, it's also become a highly professionalised
+16:05 field. It’s a field where people go into politics; they view this as a career,
+16:08 they view this as where they’re going. So, I think in some ways,
+16:13 we're seeing less enthusiasm for change through this method.
+16:16 I spend a lot of time in the human rights field; this is
+16:20 field in which our theories change are all about, how do we win victories in the courts -
+16:24 the courts are another institution in which
+16:28 trust is falling over time - this is another place
+16:31 where you find yourself kind of looking at this and saying,
+16:34 am I really going to be able to make change by taking a case
+16:37 to court, by litigating our way through it? While it's [an] incredibly powerful way
+16:43 to have change on a very large scale; you get a court decision,
+16:46 you have legislation that follows, you have executive enforcement that follows -
+16:49 it's, again, an extremely professionalised area
+16:52 very very hard theory of change for most people to participate in.
+16:57 Fortunately, we’re at a moment where there’s a whole lot other ways
+17:00 to change, and here I'm taking my cue from Lessig
+17:04 and Lessig shows up in this book a long long time ago,“Code and Other Laws of Cyberspace”, and he says
+17:09 something really simple:
+17:10 Look, we think we control society through
+17:13 law, but the truth is we control society at least four different ways.
+17:17 We can make something legal or illegal; we can make it
+17:21 easy or hard to do through code or other architectures that we put out into the world;
+17:26 we can make it cheap or expensive within markets;
+17:29 and we can make it socially desirable or socially undesirable.
+17:33 And in fact when we try to control people's behaviors, we generally
+17:36 use all of these things at the same time; they’re much more powerful
+17:39 used together. My basic contention
+17:43 is that we don't spend enough time thinking about those
+17:47 three leftmost, rightmost from your side
+17:51 levers of change, and that particularly at a
+17:54 point of institutional mistrust, those
+17:57 levers of change start looking extremely strong. Code
+18:02 is a really interesting lever of change. When you start saying,
+18:06 “I don't trust institutions, therefore I'm going to try to find ways to put really
+18:11 good encryption software out into the world,
+18:13 so I can actually secure my communications, because I don't feel I can persuade my
+18:17 government to stop spying on me”,
+18:20 that's a code response. It takes something that's fairly hard to do right now,
+18:24 and tries to find a way to make it significantly simpler. And for people who don't have a lot
+18:29 of faith
+18:30 in working with people within those institutions, this may seem to be a very good way to
+18:34 work for change. Probably only open to a very small number of people -
+18:38 most of us are not writing the newest incarnation of PGP -
+18:41 but for some people, looks like a very powerful method of change.
+18:45 Markets are an incredibly popular and powerful method of
+18:49 change: you see the whole rise of social entrepreneurship. In many cases
+18:53 what people are trying to do, is make change by essentially saying,
+18:58 “Look, I'm not going to be able to reform the laws; I don't think I'm going to be
+19:01 able to get taxes correctly
+19:03 regulated; so we’ll just found a company, we’ll found Uber,
+19:06 and we’ll try to force a change out there in the market.” In my country, we can't seem to get
+19:11 reasonable behaviour change around auto emissions.
+19:15 Fine, great, Tesla. We’ll make an affordable electric automobile, and
+19:18 once we actually get to the point where it’s affordable by a lot of people, we’ll have mastered [massive?] change on this and we’ll
+19:23 use markets to go forward.
+19:24 Does it work? Does it not? Lots of interesting questions about this.
+19:28 Markets want you to make a profit; making a profit is
+19:32 often at odds with making change; very very hard to figure how you’re
+19:37 doing on those multiple bottom lines, but clearly
+19:40 a place that people end up going when they don't feel like they’re being effective
+19:44 through the existing institutions. Changing norms
+19:47 is probably the one that we spend the most time studying,
+19:51 and and and, for those who are getting the the reference to bad American sitcoms -
+19:56 erm, that’s actually
+19:57not just a Norm joke, of Norm from Cheers
+20:01 but it’s actually one the best-studied
+20:04 norms change campaigns. The Harvard alcohol
+20:07 project decided that they wanted people to adopt the Scandinavian innovation,
+20:12 which was the designated driver - we live in a very heavily driving society,
+20:16 huge problems with driving while drunk - and so the whole idea was,
+20:21 how do we introduce this new norm that it's not a good idea to drink and drive, that the
+20:25 designated drivers a good way to have it? And so the Harvard Alcohol
+20:29  Project had one of the leading sitcoms, which happened to be set in a
+20:33 bar, start introducing the notion of the designated driver. And not
+20:37 as a good thing: actually the episode where they bring it in, Norm
+20:41 complains terribly that he has to drink water instead of drinking beer because he is the
+20:46 designated driver.
+20:47 But it turns out to be a phenomenally influential
+20:50 way to get people thinking about a behavior change -
+20:54 which is not about a legal change; it was already illegal to drive drunk -
+20:57 but to get to a norm change of what people actually do
+21:00 day-to-day. And, a huge amount of
+21:04 what happens around online activism is focused around
+21:08 this idea of norm change. How do we try to change people's
+21:12 perceptions? How do we try to change what people think is the right way to do?
+21:16 When you look at something like the Equal Rights Campaign,
+21:20 which went out encouraged
+21:23 many millions people to change their icons on Facebook,
+21:27 what they were really trying to do was show that
+21:31 there were a lot of people whose minds have changed around marriage equality.
+21:35 So for people who are going on Facebook and saying, is this an issue
+21:39 people really care about? Is this an issue people are really paying attention to? -
+21:42 you were suddenly confronted by some large percentage of
+21:46 your friends saying, “No, actually I take this very seriously and
+21:49 I'm going to make a change about it. It's extremely lightweight;
+21:53 it looks very thin; it's pretty easy win to interpret as slacktivism;
+21:56 but if you start asking in terms of, am I changing people's norms over time,
+22:02 it suddenly becomes potentially compelling. And sometimes
+22:06 norms change is what you need. In the United States, we’re having terrible,
+22:11 terrible problems with police violence against African-American men. This is not a law
+22:17 change. We don't need different laws that
+22:21 prevent police officers from shooting unarmed men. What we do need is a
+22:26 long-term norms change around how African-American males
+22:29 are perceived, which is a enormous problem
+22:33 in my country, and unfortunately I could fill many many many slides
+22:36 with examples of where this is coming from.
+22:41 So this takes us to this example that I wanted to show off. This is
+22:44 a pair of images that became quite
+22:48 famous after Michael Brown got shot in Ferguson.
+22:51 So, we have an unarmed young man,
+22:55 now a very complicated story about what happened before he got shot -
+22:59 but this was a reaction to the media portrayal, after Michael Brown got
+23:04 shot, media do what media do these days. They went onto his Facebook page
+23:07 and they looked for photos to illustrate stories.
+23:11 And they used this photo. And in this photo, he’s shot from below, he’s flashing a peace sign, but
+23:16 many of the newspaper articles said that he was flashing a gang sign
+23:19 He looks - you know, his age is sort of
+23:23 ambiguous, but he definitely looks like a grown-up, he doesn't necessarily look
+23:27 like a teenager. Activists very quickly said:
+23:30 So, why’d you choose that picture? Is that really the right picture
+23:35 to portray Michael Brown? Because, in the same Facebook feed, and round about the same time,
+23:39 you have this photo, of this sort of pudgy kid
+23:43 in a high school jacket, looks significantly younger...
+23:47 You had both of these, but you chose the left one instead of the
+23:51 right one. And activists started putting up
+23:54 a very specific Twitter meme where they took two photos and
+23:58 they both came out of your photostream, and one was designed
+24:01 to make you look dangerous, and one was designed to make you look
+24:06 like you see yourself. And the hashtag associated with this
+24:10 was #IfTheyGunnedMeDown, which picture would they
+24:13 use? Now this is a norms-based
+24:17 theory of change. This is looking at this and essentially saying,
+24:20 the ongoing problem in American society is how
+24:24 African-American males are perceived. If we want to go after
+24:28 this change, we have to go after the media, we have to go after the sort of
+24:33 large area of exposure. If we want to have this change,
+24:37 we need to gain attention, we need to put this issue on the
+24:41 agenda, we need to win a battle of framing;
+24:44 we need to be able to say, our interpretation of this, that the media systemically
+24:49 is not paying attention to our side of this, that gets
+24:52 traction. Then we want to figure out, is that changing attitudes over time?
+24:56 Which we’re only going to see out of behavioural change. A lot of the work that
+25:01 I'm doing is trying to figure out, can you measure this and can you
+25:04 quantify this. And we think the way you can do this
+25:08 is by looking at campaigns like this, looking at who they’re impacting in terms of reach,
+25:13 looking at how mainstream media ends up
+25:16 picking up these ideas as a way of thinking about agenda
+25:19 doing words work with word frequencies and sort of
+25:22 counting word occurrence to look at what frames dominate within
+25:26 this, and then looking to surveys in actual behavioural
+25:29 change over time. So a lot of the work that I’m doing in my lab
+25:33 is around this question of, can we build tools
+25:36 that allow you to track attention to these different campaigns.
+25:40 Can we figure out how they're getting picked up in the media,
+25:43 how they’re getting amplified… This is looking at two campaigns in the US
+25:47 both around police violence and the ways in which they’ve sort of ended up
+25:52 reinforcing and not reinforcing each other. “Black Lives Matter” is this idea that has been coming back again
+25:56 and again
+25:57 “I Can't Breathe” which was very specifically around the choke-hold death of Eric Garner
+26:02 had currency in that situation; it hasn't gone any further than that -
+26:05 but it's also showing us how hard it is to actually sort of move the needle.
+26:10 When we look at Black Lives Matter as compared to
+26:13 larger discussion of Ferguson, it’s basically invisible.
+26:16 This is something that’s been very very popular within the social media frame;
+26:21 it doesn't show up when we hold it against the mainstream media frame
+26:24 at least in terms of absolute value. What is interesting is that when we
+26:28 start getting into a different form
+26:31 of analysis, we’re often able to figure out how social media does in fact have an impact.
+26:35 This is another way looking at all the stories for two months around
+26:40 Ferguson. So we took all the newspaper stories we could get, using the MediaCloud tool
+26:44 and we started clustering them together. And the way that we clustered them
+26:47 together is based on linguistic coincidence, so
+26:50 if two sources are using the same words
+26:54 we ended up putting them very very closely together and you can pivot the graph
+26:58 between the sources and the words, so this whole area over
+27:01 here, looking in the green,
+27:05 is getting convened around these words
+27:08 and what’s very interesting here is this word ’militarisation’. This is an idea that the
+27:13 comedian John Oliver really brings into play, and you can actually see John shows up right next to it.
+27:18 John Oliver gets up and does his weekly comedy show
+27:22 and says, look, of all the things that are really crazy
+27:25 going on with Ferguson, it's the fact that you cannot tell
+27:29 the US police away from the military. You simply can’t distinguish the two;
+27:33 all this military equipment has gone into the police, and then we can see this
+27:37 and watch this kind of resonate throughout the media dialogue.
+27:40 There's a whole cluster of the media that ends up picking this up,
+27:44 that ends up reinforcing this over time. It's not the whole media;
+27:48 there's other clusters of the media that simply don’t pick up this language at all -
+27:52 they have a very very different frame for how to talk about it.
+27:55 The reason we think this is important; the reason we think this is useful
+27:59 is that all of this social media-based, norms-based
+28:02 change works on this idea of saying,
+28:05 Can I give you my interpretation of this situation,
+28:09 and can I get you talking about it? And we are starting to see ways that
+28:12 we might be able to track how someone introduces that language,
+28:16 brings it in, potentially sort of structures the dialogue over time.
+28:22 That was point one. Points two are way way WAY faster. So, point one
+28:25 was, look, if you don’t trust these
+28:29 systems, you're less likely to participate in them,
+28:32 you’re going to look for other ways to participate, that may be
+28:35 looking for change through code, through markets, through norms; my hope is that we have some
+28:39 interesting ways potentially to track change through norms.
+28:41 Here’s two other ideas that come out of this: if you don't trust the institutions,
+28:47 one of the temptations is to look for a way of
+28:51 deinstitutionalising the whole space, and I would argue that this is the excitement
+28:56 that people had about the internet as a space for social change,
+29:00 starting in the early nineteen nineties, when you have this sort of
+29:03 raw cyber-utopianism of someone like John Perry Barlow;
+29:07 this really sort of comes from a sense of, these rules don't apply,
+29:12 the existing institutions aren’t in this space, we can start from scratch and we can
+29:16 move in an entirely different direction. How's that worked out for us?
+29:20 We've ended up with Tim Berners-Lee starting, very very explicitly
+29:25 with a vision of a world-wide-web in which
+29:29 everyone's a publisher; everyone has a web server;
+29:32 everyone's putting up their own content… we very very quickly ended up at a point of
+29:36 centralisation
+29:37 where we’re all creating content, but we're creating it in this very centralised and controlled
+29:42 fashion.
+29:43 And what’s ended up happening is that this potentially
+29:46 highly decentralised area has ended up creating its own institutions
+29:50 which, by the way, we now mistrust...so
+29:53 we now have this space which was all supposed to be about
+29:57 it couldn’t be centralised, it couldn’t be institutionalised - and the crazy
+30:00 bit of it is, even the most decentralised, participatory institutions -
+30:04 they’re still institutions. If you watch what
+30:07 Wikipedia’s dealing with right now, they're dealing with the fact that you
+30:11 essentially have to be a professional Wikipedian
+30:14 if you want to participate in that community at a certain level.
+30:17 It has become its own institution with its own institutional structure:
+30:20 participation for the average participator has gotten much much more difficult;
+30:25 that centralisation which has allowed it to scale
+30:28 has changed the nature of what it means to participate in it and I think for many people
+30:33 the bloom has sort of gone off the rose, as far as, is this now
+30:36 an anti-institutional institution; maybe it is
+30:40in fact its own institution. So for me one of the questions that
+30:44 comes out of this is, do any the new things that people want to do in
+30:49 decentralising, whether it's Bitcoin, whether it’s Mesh Networks, whether it’s Eben Moglen’s FreedomBox,
+30:54 do any of these have an architecture
+30:57 that somehow resists centralisation? Because with all these other architectures
+31:02 where we’ve sort of said,
+31:03 we don't trust the telephone company, we don’t trust the newspapers,
+31:06 we want to put this all in our hands, we want to decentralise it,
+31:10 we all get lazy, and we all get centralised again. I use Gmail.
+31:14 I'm too lazy to run my own email server; I’m too lazy to deal with my
+31:18 own spam, and that laziness has now put me in a situation where I am trusting an
+31:23 institution
+31:23 which, to be perfectly frank, I do not trust.
+31:27 But this is where we’ve ended up - in this space.
+31:30 We had this incredible hope of,
+31:33 of decentralisation, that has very very quickly
+31:37 aligned us with these large institutions, which have
+31:41 unfortunately a history of letting us down. And so
+31:44 one interesting possibly coming out of this is that if we go into decentralisation
+31:48 with this very conscious knowledge that
+31:52 as we centralise, we end up building these institutions that we probably
+31:56 shouldn’t
+31:57 trust, we have a very interesting political motivation to go after these decentralised systems
+32:02 suddenly looking at them not just because they’re technically
+32:06 cool, but looking at them as a way of saying, look, if we're
+32:09 embracing this idea that mistrust is a social force,
+32:13 trying to get involved with these, and trying to politically build
+32:17 them so that they're not centralising is a wise direction for us to
+32:20 go in. I promised - the lower two would be significantly shorter.
+32:23 Last one: this is one that I'm really excited about
+32:26 right now. I think one of the best ways
+32:30 to harness mistrust is to try to figure out how to make skepticism
+32:36 and trying to figure out how to monitor
+32:39 the institutions we’re skeptical of; the default political stance.
+32:42 So here, I lean on Doctor Steve Mann.
+32:46 I love the fact that Steve is the guy who more or less
+32:49 invents wearable computing as we know it, but not only does he hate
+32:53 Google Glass, but he also has this wonderful way of, like, making it clear that
+32:56 he is not wearing Google Glass.
+32:58 He is not in fact the sexy person with Glass on in the background.
+33:02 He’s, he's all about his wearable computer
+33:05 being very intrusive, because in part, he wants you to think about
+33:09 the fact that he has a camera on his face and that it’s pointing at you.
+33:12 Because Mann’s main philosophical contribution is this idea
+33:16 of souveillance, and souveillance is this idea
+33:20 that lots of us with cameras, looking up, might be able to start
+33:24 counterbalancing very very powerful people with cameras looking down - and it's potentially a very compelling
+33:30 idea
+33:31 and it's one that gets more and more compelling when we have more devices
+33:34 and better connection going forward. So where this has taken me personally in my work
+33:40 recently, is to Sao Paulo, Brazil. And the reason I’m working in Sao Paulo
+33:44 is the alignment of these three factors: Sao Paulo elected this
+33:49 really interesting guy mayor: his name is Fernando Haddad,
+33:53 it’s the former.. er..Minister of Education. Comes into the Sao Paulo government and says, look:
+33:58 I'm gonna do something a little unusual, but I’m going to publish
+34:02 120 tangible, actionable goals.
+34:06 And I want you to hold me to them. And if I don’t live up to these,
+34:09 don't re-elect me, that's fine, but here they are, here’s a
+34:13 three hundred-page book, here are my goals. The reason he does this, is that this guy
+34:18 Oded Grajew, who’s the founder of the World Social Forum, is
+34:21 whispering in his ear, and basically sort of saying, you gotta do this,
+34:25 this is how we want politicians to be accountable in the
+34:28 future, and I have this network called ‘Rede Nossa Sao Paulo’ -
+34:32 network of our Sao Paulo - of thousands of community activists
+34:36 who wanna take you up on this, and so we got invited to come and
+34:40 build the tech. And the tech that we're building is a system called
+34:44 Promise Tracker. And Promise Tracker is very very simple; what it basically says
+34:49 is pick something in your community that you care about.
+34:52 One of the big things that we've been going out and doing with people is
+34:56 is playgrounds: do your children have a safe place to play?
+34:59 Let's go out and map them, put them on a map,
+35:03 let's talk about what's working there, what's broken with the infrastructure
+35:07 what needs help - and let's take this map
+35:10 and do a number of different things with it. We can go to the government and we can say, look,
+35:15 you are not living up to your promises. We can go to the media and
+35:18 essentially say, look here's what's going on
+35:22 with the state of playgrounds in this city. We can also go to the community and try to figure out how to organise
+35:27 around it. Can we fix this problem ourselves?
+35:30 Our tool is incredibly generic, it's basically
+35:33 a survey builder that allows you to pick something that you want to monitor;
+35:37 it allows you to design your own survey and then it allows you to do
+35:40 the geocoded, geolocated survey; it outputs the map
+35:44 it outputs the images; it output data tables
+35:48 and it outputs a way of you sort of building a narrative through this.
+35:51 But here’s the logic behind this:
+35:54 at a moment of very very high mistrust,
+35:58 there's an enormous power associated with saying to
+36:01 people, your job is to try to make sure that these people
+36:05 live up to their promises. If you don't trust the press
+36:09 to hold the government responsible - and in fact, press trust is one of the big things
+36:12 that has fallen down -
+36:13 can you, with a small group of your friends,
+36:17 start organising ways to, in little ways,
+36:21 collect data and try to hold authorities responsible?
+36:24 And are there ways, by putting out that ability to sort of
+36:28 build this campaign, have other people adopted, have other
+36:31 people downloaded the software, can that start turning into
+36:35 a joint effort to try to ensure that citizens feel like
+36:40 they actually have some voice in trying to make sure
+36:43 that the authorities are listening to them; authorities are living up to those promises
+36:47 over time. It's really small efforts, but
+36:50 one of the big things that we're hoping out of it is that people are going to end up
+36:54 feeling that by taking on this idea of monitorial citizenship,
+36:58 they’re finding in many cases that things are actually significantly better
+37:01 than they thought. We're finding that when people go out and do this,
+37:05 they pick an issue where they feel the government is horribly falling down on
+37:09 the job
+37:10 and then what they actually find by going out and monitoring it, is that the
+37:13 problems are much more isolated and much more contained
+37:16 than they had initially thought. They also find themselves coming up with tangible solutions that they want to figure out how to bring into the
+37:22 process. And what’s exciting about trying to do this in the Sao Paulo context
+37:26 is you have a government that's actually saying, look, we want you,
+37:30 we need you, and we now have a direct channel to figure out how this ends up being feedback that
+37:35 comes back into government. So, look:
+37:38 long day, I am the guy between us and drinks;
+37:41 I don’t know if it’s really hot up here or in general
+37:44 but I’m sweating at this point. Here are my big points:
+37:49 I think mistrust is here to stay. And I think if we don’t think about these questions of civic
+37:52 participation, taking mistrust seriously,
+37:56 we're going to keep being disappointed by efforts that don’t work out. I think a lot of the
+38:01 popular approaches changing civic engagement don't take
+38:05 mistrust seriously enough. And I think anything that essentially lectures us
+38:09 on ‘have a better sense of duty, come on, step up, be a good
+38:12 citizen’ is missing a very large societal trend.
+38:15 I think we need to look really seriously
+38:19 at these, to me, perfectly rational ways
+38:23 that people are looking outside of mistrusted institutions
+38:27 and looking for other paths to change. I think we need to
+38:30 recognise those activities, whether they’re coding; whether they’re starting socially responsible
+38:35 businesses; whether they're running a campaign to try to change a norm by
+38:38 using Internet memes
+38:39 I think we have to view them as potentially legitimate
+38:43 and we have to evaluate them based on their actual success and failure
+38:47 at what they’re trying to do. And finally I think that
+38:50 if we can start getting our heads around this idea that mistrust
+38:53 is this near infinitely-renewable resource,
+38:56 we can actually start thinking through strategies of citizenship, like
+39:00 monitorial
+39:01 citizenship, that are actually empowered and strengthened by it.
+39:04 So that’s the case that I’m trying to make; now is a great time to
+39:08 argue with me; I think arguments are best with drinks in our hands.
+[applause]
+
