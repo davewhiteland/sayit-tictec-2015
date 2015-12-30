@@ -1,6 +1,18 @@
 Tool to prepare TICTeC15 keynote transcripts for SayIt
 =============
 
+Ended up here:
+http://tictec2015.sayit.mysociety.org/
+
+Actual process was:
+
+* create SayIt instance
+* create Akoma Ntoso XML versions of transcripts (this script)
+* upload them using "Import Speeches"
+* hand-edit the sections and speakers in SayIt (e.g., adding headshot URLs) 
+ 
+---
+
 SayIt: http://sayit.mysociety.org/
 
 TICTeC 2015: https://www.mysociety.org/research/tictec2015/ 
